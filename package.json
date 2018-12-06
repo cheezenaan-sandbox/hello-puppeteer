@@ -1,0 +1,11 @@
+{
+  "name": "hello-puppetter",
+  "version": "0.1",
+  "main": "index.js",
+  "author": "cheezenaan",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}

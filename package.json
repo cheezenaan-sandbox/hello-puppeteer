@@ -6,6 +6,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "puppeteer": "1.18.0"
+    "puppeteer": "9.1.1"
   }
 }
